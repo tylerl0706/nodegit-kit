@@ -29,7 +29,7 @@
     "commander": "^2.9.0",
     "debug": "^2.2.0",
     "fildes": "^1.0.5",
-    "nodegit": "*"
+    "nodegit": "=0.11.4"
   },
   "license": "MIT",
   "devDependencies": {
